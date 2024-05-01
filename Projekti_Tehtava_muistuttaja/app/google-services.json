@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538925082689",
+    "project_id": "mob-ohj-projekti",
+    "storage_bucket": "mob-ohj-projekti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538925082689:android:b05a9b8d4e1113bb15fec0",
+        "android_client_info": {
+          "package_name": "com.example.projekti_tehtava_muistuttaja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538925082689-p43jmjobivdl08ljdoqk76n6bve1btrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNLk77ndHy6fvCl5TSwnSJ8ksjoZxevUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538925082689-p43jmjobivdl08ljdoqk76n6bve1btrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

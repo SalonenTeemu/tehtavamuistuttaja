@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Tehtävämuistuttaja</string>
+    <string name="task_text">Tehtävät</string>
+    <string name="new_task_text">Lisää uusi tehtävä</string>
+    <string name="edit_task_text">Muokkaa tehtävää</string>
+    <string name="button_save_text">Lisää</string>
+    <string name="button_edit_text">Muokkaa</string>
+    <string name="edit_task_title_hint">Tehtävän otsikko</string>
+    <string name="edit_task_info_hint">Tehtävän lisätiedot</string>
+    <string name="login_text">Kirjaudu sisään</string>
+    <string name="register_text">Rekisteröidy</string>
+    <string name="not_registered_text">Etkö ole vielä rekisteröitynyt?</string>
+    <string name="already_registered_text">Oletko jo rekisteröitynyt?</string>
+    <string name="hint_email">Sähköposti</string>
+    <string name="hint_password">Salasana</string>
+    <string name="hint_password_register">Salasana: tulee olla yli 6 merkkiä pitkä</string>
+    <string name="log_out_text">Kirjaudu ulos</string>
+    <string name="logged_in_text">Kirjautumistila</string>
+    <string name="give_permissions_text">Anna välttämättömät käyttöoikeudet</string>
+    <string name="set_reminder_text">Aseta ilmoitus</string>
+    <string name="set_due_date_text">Aseta määräpäivä</string>
+    <string name="current_due_date_text">Valittu määräpäivä: %1$s</string>
+    <string name="no_current_due_date_text">Ei valittua määräpäivää</string>
+    <string name="current_reminder_time_text">Valittu ilmoitus: %1$s klo: %2$s</string>
+    <string name="no_current_reminder_time_text">Ei valittua ilmoitusta</string>
+    <string name="set_alarm_text">Aseta hälytys</string>
+    <string name="current_alarm_time_text">Valittu hälytys: %1$s klo: %2$s</string>
+    <string name="no_current_alarm_time_text">Ei valittua hälytystä</string>
+    <string name="task_view_reminder_text">Asetettu muistutus %1$s klo: %2$s</string>
+    <string name="task_view_no_reminder_text">Ei asetettua muistutusta</string>
+    <string name="task_view_alarm_text">Asetettu hälytys %1$s klo: %2$s</string>
+    <string name="task_view_no_alarm_text">Ei asetettua hälytystä</string>
+    <string name="due_date_text">Määräpäivä: %1$s</string>
+    <string name="task_view_due_date_text">Asetettu määräpäivä: %1$s</string>
+    <string name="task_view_no_due_date_text">Ei asetettua määräpäivää</string>
+</resources>
